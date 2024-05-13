@@ -13,6 +13,10 @@ body {
     margin-right: auto;
 }
 
+#heading {
+    text-decoration: underline;
+}
+
 .headline {
     text-align: center;
 }
