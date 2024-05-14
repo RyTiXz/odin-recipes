@@ -21,6 +21,10 @@ body {
     text-align: center;
 }
 
+.checkbox {
+    list-style-type: square;
+}
+
 .return-button {
     background-color: orange;
     border: solid black;
