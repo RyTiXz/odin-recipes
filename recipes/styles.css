@@ -1,0 +1,38 @@
+/* * {
+    outline: 2px solid red;
+} */
+
+body {
+    line-height: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    width: 500px;
+    border: solid;
+    padding: 2%;
+    margin: 8px auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#heading {
+    text-decoration: underline;
+}
+
+.headline {
+    text-align: center;
+}
+
+.checkbox {
+    list-style-type: square;
+}
+
+.return-button {
+    background-color: orange;
+    border: solid black;
+    text-decoration: none;
+    padding: 2px;
+}
