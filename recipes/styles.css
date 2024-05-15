@@ -6,10 +6,19 @@ body {
     line-height: 18px;
     font-family: 'Courier New', Courier, monospace;
     text-align: justify;
-    width: 500px;
+    max-width: 500px;
     border: solid;
     padding: 2%;
     margin: 8px auto;
+}
+
+ul {
+    list-style: none;
+    padding-left: 16px;
+}
+
+ol {
+    padding-left: 30px;
 }
 
 .center {
